@@ -25,9 +25,9 @@ Here I document my journey in learning data manipulation and analysis using **Py
 pandas-practice/
 ├── day_1/
 | ├── day1.ipynb
-| ├── friends.csv
 ├── day_2/
 | ├──day2.ipynb
+| ├── friends.csv
 └── README.md
 ```
 
