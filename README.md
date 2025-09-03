@@ -4,7 +4,7 @@
 
 <h1 align="center">🐼 Pandas Practice Hub</h1>
 
-<p align="center"><i>Daily Jupyter notebooks to master data analysis with Pandas</i></p>
+<p align="center"><i>Daily Jupyter notebooks/colab/kaggle to master data analysis with Pandas</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
