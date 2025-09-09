@@ -1,0 +1,11 @@
+ID,Name,Age,Department,CGPA
+101,Rahim,23.0,CSE,3.5
+102,Karim,,EEE,3.2
+103,Ayesha,22.0,BBA,
+104,Salma,24.0,,3.6
+105,Jamil,26.0,English,3.1
+101,Rahim,23.0,CSE,3.5
+106,Karim,25.0,EEE,
+107,,27.0,BBA,3.7
+108,Ayesha,,CSE,3.8
+109,Rafi,29.0,,3.0
